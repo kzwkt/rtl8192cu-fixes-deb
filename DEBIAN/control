@@ -1,0 +1,9 @@
+Package: rtl8192cu-fixes-dkms
+Version: 1.11
+Architecture: all
+Maintainer: Dynamic Kernel Modules Support Team <pkg-dkms-maint@lists.alioth.debian.org>
+Installed-Size: 5301
+Depends: dkms (>= 1.95)
+Section: misc
+Priority: optional
+Description: rtl8192cu-fixes driver in DKMS format.
